@@ -17,18 +17,18 @@ Dataset en Kaggle: [Walmart Sales Dataset](https://www.kaggle.com/datasets/mikha
 
 ## 🚀 Funcionalidades del Dashboard
 
-Este dashboard permite analizar las tiendas de forma individual, considerando si las ventas ocurrieron en un día festivo (1) o no, ya que esta es una de las variables más influyentes en las ventas. Además, incluye filtros interactivos para:
+Este dashboard permite analizar las tiendas de forma individual, considerando si las ventas ocurrieron en un día festivo(1) o no, ya que esta es una de las variables más influyentes en las ventas. Además, incluye filtros interactivos para:  
 
 ![Captura de pantalla](https://github.com/user-attachments/assets/d2be66f4-37b7-4d9d-b4d3-af6d2df153a8)
 
-1. **Seleccionar el número de tienda**.
+**Seleccionar el número de tienda**(2).
    
    ![Captura de pantalla](https://github.com/user-attachments/assets/f1a5ee07-e6b7-4142-a40a-3ab4f88888a5)
-
-2. **Filtrar por fechas**, con opciones de año y mes.
+   
+**Filtrar por fechas**(3), con opciones de año y mes.
 
    ![Captura de pantalla](https://github.com/user-attachments/assets/a1e4176a-8e60-4b8b-b4c8-97873aa253df)
-
+   
 ### Métricas clave
 
 El dashboard también permite observar las siguientes métricas:
@@ -57,6 +57,4 @@ Con esta herramienta, se obtiene una visión más clara de cómo los factores ma
 
 El dashboard facilita la identificación de patrones y proporciona insights clave para tomar decisiones informadas sobre el rendimiento de las tiendas.
 
----
 
-Dataset en Kaggle: [Walmart Sales Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
