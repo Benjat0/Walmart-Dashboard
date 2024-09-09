@@ -1,6 +1,6 @@
 # 📊 Análisis de Ventas de Walmart
 
-Este dashboard interactivo fue creado por mi compañero [David](https://github.com/DavidRR03/DavidRR03) y yo, utilizando Excel, con el propósito de analizar el rendimiento de las tiendas de Walmart. El dataset que usamos proviene de Kaggle y contiene 6,435 filas y 9 columnas, con los siguientes datos:
+Este dashboard interactivo fue creado por mi compañero [David](https://github.com/DavidRR03/DavidRR03) y yo [Beñat](https://github.com/Benjat0) , utilizando Excel, con el propósito de analizar el rendimiento de las tiendas de Walmart. El dataset que usamos proviene de Kaggle y contiene 6,435 filas y 9 columnas, con los siguientes datos:
 
 Dataset en Kaggle: [Walmart Sales Dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
 
